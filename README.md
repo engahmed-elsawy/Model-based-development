@@ -15,20 +15,18 @@ This repository is dedicated to my studies and projects related to Model-Based D
 Model-Based Development (MBD) is a methodology that uses models as the core artifacts in the development process. It involves creating abstract representations of a system and using these models for analysis, design, and implementation. This section provides a brief introduction to MBD and its benefits.
 
 ## Projects
-### Project 1: [Project Name]
+### Project 1: [Project Name]  
 Brief description of Project 1.
 
-### Project 2: [Project Name]
+### Project 2: [Project Name]  
 Brief description of Project 2.
 
 ...
 
 ## Folder Structure
-- `/projects`: Contains subdirectories for each individual project.
-- `/project1`: Details about Project 1.
-- `/project2`: Details about Project 2.
-- `/docs`: Additional documentation related to the projects or MBD concepts.
-- `/scripts`: Any scripts or tools used in the development process.
+- `/projects`: Contains subdirectories for each individual project.  
+- `/project1`: Details about Project 1.  
+- `/project2`: Details about Project 2.  
+- `/docs`: Additional documentation related to the projects or MBD concepts.  
+- `/scripts`: Any scripts or tools used in the development process.  
 - `/examples`: Code examples or model files that illustrate specific concepts.
-
-
